@@ -1,7 +1,6 @@
 ---
-title: "PFAS Insight"
-excerpt: "An interactive web app that visualizes PFAS exposure alongside reproductive health outcome data."
-collection: portfolio
+title: "Arizona CoVHORT Newsletter"
+excerpt: "An interactive web app that visualizes Arizona CoVHORT Newsletter."
 ---
 
-A single-file web app for exploring PFAS exposure and reproductive health outcomes. [Add a link to the live app or its GitHub repository and a screenshot in images/.]
+A single-file web app communicating work updates by Arizona CoVHORT. [https://github.com/cmejike/Arizona-CoVHORT-Newsletter]
