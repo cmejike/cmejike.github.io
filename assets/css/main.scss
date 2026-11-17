@@ -50,3 +50,40 @@
   color: var(--global-link-color); font-size: 0.85em; font-style: normal;
 }
 .pub-doi { margin-left: 0.6em; }
+
+/* ==========================================================================
+   Home page and shared education block
+   Colors use the theme variables so text stays readable in light and dark mode.
+   ========================================================================== */
+.home-wrap { max-width: 1000px; margin: 0 auto; }
+.home-name {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: $type-size-1;
+  text-align: center;
+  margin: 0.5em 0 1em;
+  color: var(--global-text-color);
+}
+.home-intro { display: flex; gap: 2.5em; align-items: flex-start; }
+.home-profile { flex: 0 0 240px; }
+.home-profile img { width: 100%; height: auto; display: block; }
+.home-links { list-style: none; margin: 1em 0 0; padding: 0; }
+.home-links li { margin: 0 0 0.4em; }
+.home-links i { margin-right: 0.5em; color: var(--global-text-color-light); }
+.home-links a { color: var(--global-text-color); text-decoration: none; }
+.home-links a:hover { color: var(--global-link-color); text-decoration: underline; }
+.home-about h2:first-child { margin-top: 0; }
+.home-footer {
+  text-align: center;
+  font-size: $type-size-6;
+  color: var(--global-text-color-light);
+  margin-top: 3em;
+}
+@media (max-width: 700px) {
+  .home-intro { flex-direction: column; align-items: center; }
+  .home-profile { flex-basis: auto; width: 200px; }
+}
+
+.edu-item { margin-bottom: 1.5em; }
+.page__content .edu-item p { margin: 0 0 0.2em; }
+.edu-head { display: flex; justify-content: space-between; gap: 1em; font-weight: 700; }
+.edu-head span:last-child { white-space: nowrap; font-weight: 400; }

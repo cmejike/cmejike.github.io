@@ -11,16 +11,6 @@ redirect_from:
 
 <a href="{{ base_path }}/files/Ejike_CV.pdf" class="btn" download>Download CV (PDF)</a>
 
-Education
-======
-* **Ph.D. in Epidemiology**, Minor in Biostatistics - University of Arizona, 2025-present
-  * Foundations of Data Science Graduate Certificate (in progress)
-  * Advisor: Dr. Kristen Pogreba-Brown
-* **M.P.H. in Epidemiology** - University of Arizona, 2024
-  * Internship: food insecurity and acute COVID-19 among Arizona CoVHORT participants
-* **B.Sc. in Biotechnology**, First Class Honors (*Summa cum laude*) - Godfrey Okoye University, Nigeria, 2019
-  * Thesis: prevalence, antibiotic susceptibility and PCR-based identification of pathogenic *Salmonella* from pig droppings and pork in Enugu, Nigeria
-
 Honors and awards
 ======
 * BIO5 Institute Graduate Fellowship in Transdisciplinary Science (inaugural cohort), University of Arizona, 2026
