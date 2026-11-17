@@ -15,7 +15,7 @@ Honors and awards
 ======
 * BIO5 Institute Graduate Fellowship in Transdisciplinary Science (inaugural cohort), University of Arizona, 2026
 * Zuckerman Family Foundation Scholarship Endowment, 2026
-* SER Travel Scholarship, Society for Epidemiologic Research Annual Meeting, 2026
+* SPC Travel Scholarship, Society for Epidemiologic Research Annual Meeting, 2026
 * AZHEC Scholarship Award, Arizona Health Equity Conference, 2025
 * Roots for Resilience Fellowship, CyVerse and Data Science Institute, University of Arizona, 2025
 * College of Public Health Advisory Board Scholarship, 2025

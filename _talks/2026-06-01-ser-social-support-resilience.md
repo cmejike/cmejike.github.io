@@ -7,4 +7,4 @@ venue: "Society for Epidemiologic Research (SER) Annual Meeting, Phoenix, AZ"
 date: 2026-06-01
 ---
 
-<b>Ejike CM</b>, Austhof E, Pogreba-Brown K. Supported by an SER Travel Scholarship.
+<b>Ejike CM</b>, Austhof E, Pogreba-Brown K. Supported by an SPC Travel Scholarship.

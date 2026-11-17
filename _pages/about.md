@@ -29,8 +29,8 @@ redirect_from:
   </div>
   <div class="home-about">
     <h2>About me</h2>
-    <p>I'm <strong>Chidera M. Ejike</strong>, a PhD student in <strong>Epidemiology</strong> (minor in Biostatistics, graduate certificate in Foundations of Data Science in progress) at the University of Arizona's Mel and Enid Zuckerman College of Public Health, where I also work as a Clinical Research Coordinator in the Department of Epidemiology and Biostatistics. I trained in biotechnology before earning my MPH in Epidemiology at the University of Arizona.</p>
-    <p>My work brings together molecular biology and population health. I study post-acute sequelae of SARS-CoV-2 infection (long COVID), especially gastrointestinal outcomes, in the Arizona CoVHORT cohort.</p>
+    <p>I'm a PhD student in Epidemiology at the University of Arizona's Mel and Enid Zuckerman College of Public Health, with a minor in Biostatistics and a graduate certificate in Foundations of Data Science in progress. I also work as a Clinical Research Coordinator in the Department of Epidemiology and Biostatistics at the University of Arizona. My academic training in biotechnology and epidemiology informs my interdisciplinary approach to public health research.</p>
+    <p>My research bridges molecular biology, epidemiology, and population health, with a focus on the long-term health consequences of SARS-CoV-2 infection (Long COVID). I am particularly interested in gastrointestinal outcomes among individuals with Long COVID. Using data from the Arizona CoVHORT cohort, I apply longitudinal epidemiologic methods, explore underlying biological mechanisms, and leverage data science approaches to better understand disease patterns, identify risk factors, and inform strategies to improve population health.</p>
   </div>
 </div>
 
@@ -38,7 +38,7 @@ redirect_from:
 <ul>
   <li><strong>Nov 2026</strong> – Co-authored two abstracts presented at APHA 2026, on greenspaces and health and on timely antibiotic care for neutropenic fever in Uganda.</li>
   <li><strong>Sep 2026</strong> – Named to the inaugural cohort of the BIO5 Institute Graduate Fellowship in Transdisciplinary Science.</li>
-  <li><strong>Aug 2026</strong> – Scoping review protocol on photovoice studies concerning greenspaces and health published in <em>PLOS ONE</em>.</li>
+  <li><strong>Aug 2026</strong> – Scoping review protocol on photovoice studies concerning greenspaces and health published in <em>Plos One</em>.</li>
   <li><strong>Jun 2026</strong> – Presented a poster on social support and resilience in long COVID at the SER Annual Meeting (SPC Travel Scholarship).</li>
 </ul>
 
