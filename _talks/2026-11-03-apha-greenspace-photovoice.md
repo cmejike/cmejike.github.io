@@ -7,4 +7,4 @@ venue: "APHA Annual Meeting, Environment Section — Environmental Justice and H
 date: 2026-11-03
 ---
 
-<b>Ejike CM†</b>, Block Ngaybe MG†, Mithu IH, Ferrer R, Danforth AZ, Ketema C, Ramos R, Hoover JH, Waller M, Wang H, Ernst K, Li S. †Co-first authors; presented by MG Block Ngaybe.
+Block Ngaybe MG†, <b>Ejike CM†</b>, Mithu IH, Ferrer R, Danforth AZ, Ketema C, Ramos R, Hoover JH, Waller M, Wang H, Ernst K, Li S. †Co-first authors; presented by MG Block Ngaybe.
