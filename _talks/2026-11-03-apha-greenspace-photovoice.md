@@ -3,7 +3,7 @@ title: "Greenspaces impacts on health in an arid metropolitan area: a Photovoice
 collection: talks
 type: "Oral lightning presentation"
 permalink: /talks/2026-11-03-apha-greenspace-photovoice
-venue: "APHA Annual Meeting, Environment Section — Environmental Justice and Health Equity Lightning Session"
+venue: "APHA Annual Meeting, Environment Section - Environmental Justice and Health Equity Lightning Session"
 date: 2026-11-03
 ---
 

@@ -3,7 +3,7 @@ title: "Barriers and Facilitators to Timely Antibiotic Delivery for Neutropenic 
 collection: talks
 type: "Poster"
 permalink: /talks/2026-11-02-apha-neutropenic-fever
-venue: "APHA Annual Meeting, Cancer Program — Novel Insights in Cancer Survivorship"
+venue: "APHA Annual Meeting, Cancer Program - Novel Insights in Cancer Survivorship"
 date: 2026-11-02
 ---
 
