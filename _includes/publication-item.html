@@ -1,0 +1,12 @@
+{% comment %} Compact, citation-style publication entry {% endcomment %}
+<div class="list__item pub-item">
+  <p class="pub-title">
+    {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}
+  </p>
+  {% if post.authors %}<p class="pub-authors">{{ post.authors }}</p>{% endif %}
+  <p class="pub-meta">
+    {% if post.venue %}<i>{{ post.venue }}</i>{% if post.pubyear %}, {{ post.pubyear }}{% endif %}{% elsif post.pubyear %}{{ post.pubyear }}{% endif %}
+    {% if post.status %}<span class="pub-status">{{ post.status }}</span>{% endif %}
+    {% if post.doi %}<a class="pub-doi" href="https://doi.org/{{ post.doi }}">doi:{{ post.doi }}</a>{% endif %}
+  </p>
+</div>

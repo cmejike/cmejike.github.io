@@ -36,3 +36,17 @@
     "layout/archive",
     "layout/sidebar"
 ;
+/* Compact publication entries */
+.pub-item { margin-bottom: 1.6em; }
+.pub-item p { margin: 0 0 0.25em; }
+.pub-title { font-weight: 600; font-size: 1.05em; line-height: 1.35; }
+.pub-title a { text-decoration: none; }
+.pub-title a:hover { text-decoration: underline; }
+.pub-authors { font-size: 0.9em; }
+.pub-meta { font-size: 0.85em; color: var(--global-text-color-light); }
+.pub-status {
+  display: inline-block; margin-left: 0.5em; padding: 0.05em 0.6em;
+  border: 1px solid var(--global-link-color); border-radius: 999px;
+  color: var(--global-link-color); font-size: 0.85em; font-style: normal;
+}
+.pub-doi { margin-left: 0.6em; }
