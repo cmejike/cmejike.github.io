@@ -29,8 +29,8 @@ redirect_from:
   </div>
   <div class="home-about">
     <h2>About me</h2>
-    <p>I'm a PhD student in Epidemiology at the University of Arizona's Mel and Enid Zuckerman College of Public Health, with a minor in Biostatistics and a graduate certificate in Foundations of Data Science in progress. I also work as a Clinical Research Coordinator in the Department of Epidemiology and Biostatistics at the University of Arizona. My academic training in biotechnology and epidemiology informs my interdisciplinary approach to public health research.</p>
-    <p>My research bridges molecular biology, epidemiology, and population health, with a focus on the long-term health consequences of SARS-CoV-2 infection (Long COVID). I am particularly interested in gastrointestinal outcomes among individuals with Long COVID. Using data from the Arizona CoVHORT cohort, I apply longitudinal epidemiologic methods, explore underlying biological mechanisms, and leverage data science approaches to better understand disease patterns, identify risk factors, and inform strategies to improve population health.</p>
+    <p>I’m a Clinical Research Coordinator in the Department of Epidemiology and Biostatistics. I'm also a PhD student in Epidemiology at the University of Arizona’s Mel and Enid Zuckerman College of Public Health, with a minor in Biostatistics and a graduate certificate in Foundations of Data Science in progress. My training in biotechnology and epidemiology shapes my interdisciplinary approach to public health research.</p>
+    <p>My research bridges molecular biology, epidemiology, and population health, with a focus on the long-term health consequences of SARS-CoV-2 infection (Long COVID), particularly gastrointestinal outcomes. Using data from the Arizona CoVHORT cohort, I apply longitudinal epidemiologic methods, explore underlying biological mechanisms, and use data science approaches to identify risk factors and inform strategies to improve population health.</p>
   </div>
 </div>
 
