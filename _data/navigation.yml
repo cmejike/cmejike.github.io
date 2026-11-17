@@ -1,0 +1,16 @@
+# Header links, in order. Remove an item to hide that page.
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks & Posters"
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Projects"
+    url: /portfolio/
+
+  - title: "CV"
+    url: /cv/
