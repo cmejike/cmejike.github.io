@@ -87,3 +87,16 @@
 .page__content .edu-item p { margin: 0 0 0.2em; }
 .edu-head { display: flex; justify-content: space-between; gap: 1em; font-weight: 700; }
 .edu-head span:last-child { white-space: nowrap; font-weight: 400; }
+
+/* CV page: PDF pages drawn as images that fit any screen width */
+.cv-viewer { width: 100%; }
+.cv-page {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 0 1.25em;
+  background: #fff;
+  border: 1px solid var(--global-border-color);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+}
+.cv-loading { color: var(--global-text-color-light); }
