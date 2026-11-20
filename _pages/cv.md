@@ -33,6 +33,9 @@ redirect_from:
       (function (num) {
         var canvas = document.createElement("canvas");
         canvas.className = "cv-page";
+        canvas.style.width = "100%";
+        canvas.style.height = "auto";
+        canvas.style.display = "block";
         viewer.appendChild(canvas);
         chain = chain.then(function () {
           return pdfDoc.getPage(num).then(function (page) {
